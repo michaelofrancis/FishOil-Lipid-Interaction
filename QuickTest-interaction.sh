@@ -1,5 +1,6 @@
 ###Michael Francis 06-09-2020
 ###This script runs a GWAS interaction model on four blood lipid phenotypes using fish oil as an interaction term.
+###http://toby.freeshell.org/software/quicktest.shtml
 
 
 ###Set Parameters ==============================
